@@ -1,0 +1,8 @@
+com\example\SpringBoot\Student.class
+com\example\SpringBoot\StudentGenerator.class
+com\example\SpringBoot\StudentAccountingService.class
+com\example\SpringBoot\StudentStorage.class
+com\example\SpringBoot\event\EventHolderListener.class
+com\example\SpringBoot\Application.class
+com\example\SpringBoot\event\EventHolder.class
+com\example\SpringBoot\config\StudentAccountingConfiguration.class
